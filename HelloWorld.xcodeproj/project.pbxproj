@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		E618487324A2D50800F2B4CF /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = SOURCE_ROOT; };
 		E6AA1B0324A2D10700912B47 /* HelloWorld */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HelloWorld; sourceTree = BUILT_PRODUCTS_DIR; };
+		E6ACB87C26C307C1001C2C67 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		E6ACB87D26C307CB001C2C67 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,8 @@
 			isa = PBXGroup;
 			children = (
 				E618487324A2D50800F2B4CF /* main.cpp */,
+				E6ACB87D26C307CB001C2C67 /* LICENSE */,
+				E6ACB87C26C307C1001C2C67 /* README.md */,
 			);
 			name = HelloWorld;
 			sourceTree = "<group>";
